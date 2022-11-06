@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '『存在と時間』読書会'
+theme = 'anubis'
+defaultContentLanguage = "ja"
+hasCJKLanguage = true

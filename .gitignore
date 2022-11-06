@@ -1,0 +1,28 @@
+# .gitignore
+# Ignore All
+*
+!*/
+
+# Allowlist
+!.git/*
+!.gitignore
+!.gitattributes
+!*.c
+!*.cpp
+!*.h
+!*.js
+!*.py
+!*.sh
+
+!*.md
+!*.html
+!*.txt
+!*.toml
+!*.yml
+!*.yaml
+!*.csv
+!*.tsv
+!*.json
+
+!*.svg
+!*.pdf
