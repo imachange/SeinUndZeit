@@ -7,6 +7,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/04/%C3%8Atre_et_Temps.j
 draft: false
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/l_e6ZrvSRTixbWhM6FEhfg/badge)](https://hackmd.io/l_e6ZrvSRTixbWhM6FEhfg)
 * [録音](https://www.youtube.com/watch?v=9UygACHKubQ)
 
 レートムさん
