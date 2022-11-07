@@ -2,7 +2,7 @@
 title: "概要: 第7回「存在と時間」読書会"
 description: "【検討箇所】序論第1章第3節"
 author: "tb"
-data: 2022-06-04T22:30+09:00
+date: 2022-06-04T22:30+09:00
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "概要: 第15回「存在と時間」読書会"
 description: "【検討箇所】14b-"
 author: "なすの,tb"
-data: 2022-08-06T22:30+09:00
+date: 2022-08-06T22:30+09:00
 draft: false
 ---
 

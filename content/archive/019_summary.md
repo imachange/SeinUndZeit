@@ -2,7 +2,7 @@
 title: "概要: 第19回「存在と時間」読書会"
 description: "【検討箇所】16d-16e-17a"
 author: "tb"
-data: 2022-09-17T22:30+09:00
+date: 2022-09-17T22:30+09:00
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "概要: 第8回「存在と時間」読書会"
 description: "【検討箇所】序論第1章第3節"
 author: "NW"
-data: 2022-06-11T22:30+09:00
+date: 2022-06-11T22:30+09:00
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "概要: 第22回「存在と時間」読書会"
 description: "【検討箇所】19a,19b,19c"
 author: "tb"
-data: 2022-10-08T22:30+09:00
+date: 2022-10-08T22:30+09:00
 draft: false
 ---
 

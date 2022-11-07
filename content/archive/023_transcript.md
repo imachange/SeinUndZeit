@@ -2,7 +2,7 @@
 title: "書き起こし: 第23回「存在と時間」読書会"
 description: "【検討箇所】"
 author: "ひまぜき"
-data: 2022-10-23T22:30+09:00
+date: 2022-10-23T22:30+09:00
 image: "https://upload.wikimedia.org/wikipedia/commons/0/04/%C3%8Atre_et_Temps.jpg"
 draft: false
 ---
